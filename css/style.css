@@ -25,6 +25,9 @@ text-align: left !important;
 .w-75{
   width: 650px !important;
 }
+.nav-menu-container li{
+  font-family: 'Josefin Sans', sans-serif !important;
+}
 .damn a:hover {
   background-color:#18d26e !important;
 }
